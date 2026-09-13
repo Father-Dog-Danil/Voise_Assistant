@@ -1,0 +1,12 @@
+.venv/
+.idea/
+jsons_files/
+log_files/
+*.log
+secrets/
+models/AI
+analis.py
+data/
+__pycache__/
+*.pyc
+*.gguf
